@@ -11,7 +11,7 @@ A console-based Railway Management System developed in Java that allows admins t
 - Manage Trains
 - View all registered users
 - Add New User
-- Autorization Control
+- Authorization 
 
 ### 👥 Passenger
 - Book and cancel tickets
