@@ -16,7 +16,7 @@ A console-based Railway Management System developed in Java that allows admins t
 ### 👥 Passenger
 - Book and cancel tickets
 - View ticket history
-- See train detail
+- Check Train Details
 
 ### 🗃️ Data Storage
 - Train data stored in `trainData.txt`
@@ -68,13 +68,13 @@ A console-based Railway Management System developed in Java that allows admins t
 
 1. **Compile the program:**
 
-   ```bash
+```bash
    javac RailwayManagementSystem.java
 
 ```
 2. **Run the program:**
    
-  ```bash
+```bash
   java RailwayManagementSystem
 
 ```
