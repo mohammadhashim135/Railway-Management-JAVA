@@ -32,7 +32,7 @@ A console-based Railway Management System developed in Java that allows admins t
 ├── trainData.txt            # Stores train details (ID, name, seats)
 ├── userData.txt             # Stores user credentials and ticket history
 ├── ticketBookings.txt       # Stores booking logs
-├── Main.java  # Main source code file
+├── Main.java                # Main source code file
 └── README.md
 ```
 ---
