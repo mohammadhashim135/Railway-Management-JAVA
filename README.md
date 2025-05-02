@@ -32,7 +32,7 @@ A console-based Railway Management System developed in Java that allows admins t
 ├── trainData.txt            # Stores train details (ID, name, seats)
 ├── userData.txt             # Stores user credentials and ticket history
 ├── ticketBookings.txt       # Stores booking logs
-├── RailwayManagementSystem.java  # Main source code file
+├── Main.java  # Main source code file
 └── README.md
 ```
 ---
@@ -69,13 +69,13 @@ A console-based Railway Management System developed in Java that allows admins t
 1. **Compile the program:**
 
 ```bash
-   javac RailwayManagementSystem.java
+   javac Main.java
 
 ```
 2. **Run the program:**
    
 ```bash
-  java RailwayManagementSystem
+  java Main
 
 ```
 
