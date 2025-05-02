@@ -8,11 +8,15 @@ A console-based Railway Management System developed in Java that allows admins t
 
 ### 👤 Admin
 - Add and remove trains
+- Manage Trains
 - View all registered users
+- Add New User
+- Autorization Control
 
 ### 👥 Passenger
 - Book and cancel tickets
 - View ticket history
+- See train detail
 
 ### 🗃️ Data Storage
 - Train data stored in `trainData.txt`
